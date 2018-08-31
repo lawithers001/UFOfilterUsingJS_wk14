@@ -1,0 +1,458 @@
+[{
+    "id": 1,
+    "vin": "YV4952CZXE1792574",
+    "car": "Acura"
+  }, {
+    "id": 2,
+    "vin": "KMHGH4JH3CU209129",
+    "car": "Ferrari"
+  }, {
+    "id": 3,
+    "vin": "WA1CGAFP6FA200767",
+    "car": "Chevrolet"
+  }, {
+    "id": 4,
+    "vin": "1G4HF57958U638652",
+    "car": "Mercury"
+  }, {
+    "id": 5,
+    "vin": "1FTSX2A56AE895053",
+    "car": "Lexus"
+  }, {
+    "id": 6,
+    "vin": "WA1C8BFP6FA666847",
+    "car": "Mazda"
+  }, {
+    "id": 7,
+    "vin": "SCBLE37G05C722287",
+    "car": "Plymouth"
+  }, {
+    "id": 8,
+    "vin": "1G6DC1E31D0637165",
+    "car": "Eagle"
+  }, {
+    "id": 9,
+    "vin": "KMHHT6KJ5FU876823",
+    "car": "Mitsubishi"
+  }, {
+    "id": 10,
+    "vin": "KMHGH4JF1BU246578",
+    "car": "Chevrolet"
+  }, {
+    "id": 11,
+    "vin": "1FTNX2A5XAE523857",
+    "car": "Mazda"
+  }, {
+    "id": 12,
+    "vin": "1N6AA0EC8DN079427",
+    "car": "Audi"
+  }, {
+    "id": 13,
+    "vin": "1FTEX1E87AF855036",
+    "car": "Audi"
+  }, {
+    "id": 14,
+    "vin": "KNAFT4A23D5912314",
+    "car": "Mercury"
+  }, {
+    "id": 15,
+    "vin": "WA1CGBFE9BD070299",
+    "car": "BMW"
+  }, {
+    "id": 16,
+    "vin": "1GYFK66828R574315",
+    "car": "Dodge"
+  }, {
+    "id": 17,
+    "vin": "TRUTC28N731295621",
+    "car": "Merkur"
+  }, {
+    "id": 18,
+    "vin": "3GYFNEE31CS016338",
+    "car": "Chrysler"
+  }, {
+    "id": 19,
+    "vin": "WBABN53413J847322",
+    "car": "Kia"
+  }, {
+    "id": 20,
+    "vin": "KMHGN4JE2FU815038",
+    "car": "GMC"
+  }, {
+    "id": 21,
+    "vin": "KM8JT3AB6DU357139",
+    "car": "Lexus"
+  }, {
+    "id": 22,
+    "vin": "SCBZB25EX2C654493",
+    "car": "Mercury"
+  }, {
+    "id": 23,
+    "vin": "3D73Y4CL7BG833530",
+    "car": "Infiniti"
+  }, {
+    "id": 24,
+    "vin": "SAJWA6FCXE8517196",
+    "car": "Bentley"
+  }, {
+    "id": 25,
+    "vin": "1NXBU4EE3AZ744688",
+    "car": "BMW"
+  }, {
+    "id": 26,
+    "vin": "KNADM5A36F6632256",
+    "car": "Saab"
+  }, {
+    "id": 27,
+    "vin": "WAUYGAFC5CN091244",
+    "car": "Lexus"
+  }, {
+    "id": 28,
+    "vin": "WA1CMAFE7ED945886",
+    "car": "Porsche"
+  }, {
+    "id": 29,
+    "vin": "1D7RB1GK9AS116761",
+    "car": "Ford"
+  }, {
+    "id": 30,
+    "vin": "WBAFU7C51BD480931",
+    "car": "Suzuki"
+  }, {
+    "id": 31,
+    "vin": "5FNRL5H2XDB413598",
+    "car": "Dodge"
+  }, {
+    "id": 32,
+    "vin": "JHMZF1D60ES798097",
+    "car": "Volvo"
+  }, {
+    "id": 33,
+    "vin": "1GD02XEG3FZ599999",
+    "car": "GMC"
+  }, {
+    "id": 34,
+    "vin": "WVWED7AJ5CW185822",
+    "car": "Toyota"
+  }, {
+    "id": 35,
+    "vin": "WBANV9C53AC638954",
+    "car": "Volkswagen"
+  }, {
+    "id": 36,
+    "vin": "JN8AF5MR3DT438772",
+    "car": "Ford"
+  }, {
+    "id": 37,
+    "vin": "1FMJU1J54AE314448",
+    "car": "Chevrolet"
+  }, {
+    "id": 38,
+    "vin": "KMHHT6KD5AU504644",
+    "car": "Aptera"
+  }, {
+    "id": 39,
+    "vin": "1G6AD5S3XE0412207",
+    "car": "Chevrolet"
+  }, {
+    "id": 40,
+    "vin": "SCFFDCBD8CG129777",
+    "car": "GMC"
+  }, {
+    "id": 41,
+    "vin": "2HNYB1H40CH319032",
+    "car": "Maybach"
+  }, {
+    "id": 42,
+    "vin": "1G6DM5E35C0284710",
+    "car": "BMW"
+  }, {
+    "id": 43,
+    "vin": "WAUGL98E36A174817",
+    "car": "Subaru"
+  }, {
+    "id": 44,
+    "vin": "WBAWC7C54AP277967",
+    "car": "Toyota"
+  }, {
+    "id": 45,
+    "vin": "1G4PS5SK2E4540207",
+    "car": "Kia"
+  }, {
+    "id": 46,
+    "vin": "2B3CM5CT0BH789528",
+    "car": "Eagle"
+  }, {
+    "id": 47,
+    "vin": "5LMJJ2J58EE351555",
+    "car": "Ram"
+  }, {
+    "id": 48,
+    "vin": "1G6DA1ED4B0737059",
+    "car": "Nissan"
+  }, {
+    "id": 49,
+    "vin": "WP0AD2A72EL609046",
+    "car": "Mercury"
+  }, {
+    "id": 50,
+    "vin": "1GYS4FEJ3BR767819",
+    "car": "Ford"
+  }, {
+    "id": 51,
+    "vin": "WBA3V9C54F5796044",
+    "car": "Hyundai"
+  }, {
+    "id": 52,
+    "vin": "JTDKN3DU3A0103178",
+    "car": "Lexus"
+  }, {
+    "id": 53,
+    "vin": "2FMDK3JC9AB780062",
+    "car": "Hyundai"
+  }, {
+    "id": 54,
+    "vin": "JA32X2HU4BU498835",
+    "car": "Jensen"
+  }, {
+    "id": 55,
+    "vin": "3GTU2YEJ8CG903217",
+    "car": "Lotus"
+  }, {
+    "id": 56,
+    "vin": "JH4CU2E65BC913086",
+    "car": "Maybach"
+  }, {
+    "id": 57,
+    "vin": "WBAVD53528A978775",
+    "car": "Chevrolet"
+  }, {
+    "id": 58,
+    "vin": "3GYEK62N74G871596",
+    "car": "Nissan"
+  }, {
+    "id": 59,
+    "vin": "2HKRM3H38EH602490",
+    "car": "Honda"
+  }, {
+    "id": 60,
+    "vin": "2FMDK3AK6EB227737",
+    "car": "Land Rover"
+  }, {
+    "id": 61,
+    "vin": "WAUVT58E64A515513",
+    "car": "Dodge"
+  }, {
+    "id": 62,
+    "vin": "JN8AE2KP0F9167561",
+    "car": "Ford"
+  }, {
+    "id": 63,
+    "vin": "WVWGU7AN2AE372787",
+    "car": "Chevrolet"
+  }, {
+    "id": 64,
+    "vin": "WVWAA7AJ9CW450913",
+    "car": "Dodge"
+  }, {
+    "id": 65,
+    "vin": "1FAHP3CN8AW381382",
+    "car": "Lamborghini"
+  }, {
+    "id": 66,
+    "vin": "JTHDU1EF6E5439642",
+    "car": "Pontiac"
+  }, {
+    "id": 67,
+    "vin": "1FMJK1H57DE066213",
+    "car": "Mercury"
+  }, {
+    "id": 68,
+    "vin": "WAUTFAFHXDN501563",
+    "car": "Toyota"
+  }, {
+    "id": 69,
+    "vin": "3FADP4AJ9FM003325",
+    "car": "Volkswagen"
+  }, {
+    "id": 70,
+    "vin": "WBAVT73598F911026",
+    "car": "Mercedes-Benz"
+  }, {
+    "id": 71,
+    "vin": "JN8AF5MR8FT243608",
+    "car": "Hyundai"
+  }, {
+    "id": 72,
+    "vin": "1D7RE2BK8BS804370",
+    "car": "Mitsubishi"
+  }, {
+    "id": 73,
+    "vin": "WVGAV3AX1EW410437",
+    "car": "Buick"
+  }, {
+    "id": 74,
+    "vin": "JTHBL5EF8B5551825",
+    "car": "Lexus"
+  }, {
+    "id": 75,
+    "vin": "SCBLE47K08C248758",
+    "car": "Toyota"
+  }, {
+    "id": 76,
+    "vin": "5FPYK1F25DB367535",
+    "car": "Subaru"
+  }, {
+    "id": 77,
+    "vin": "1C4AJWAG4FL514280",
+    "car": "Dodge"
+  }, {
+    "id": 78,
+    "vin": "SAJWA4DB2DL826784",
+    "car": "Hummer"
+  }, {
+    "id": 79,
+    "vin": "5N1AT2MLXFC096086",
+    "car": "Pontiac"
+  }, {
+    "id": 80,
+    "vin": "5UXKR2C5XF0168138",
+    "car": "Dodge"
+  }, {
+    "id": 81,
+    "vin": "1G6DC8E52C0816131",
+    "car": "Lexus"
+  }, {
+    "id": 82,
+    "vin": "1G6DJ5EV4A0647442",
+    "car": "GMC"
+  }, {
+    "id": 83,
+    "vin": "WBAPK5C58BF584206",
+    "car": "Acura"
+  }, {
+    "id": 84,
+    "vin": "3N1CN7AP0FL054531",
+    "car": "BMW"
+  }, {
+    "id": 85,
+    "vin": "1G4HP54K834195880",
+    "car": "Buick"
+  }, {
+    "id": 86,
+    "vin": "5J8TB18227A234729",
+    "car": "Volkswagen"
+  }, {
+    "id": 87,
+    "vin": "1HGCR2E70EA565324",
+    "car": "Dodge"
+  }, {
+    "id": 88,
+    "vin": "JN8CS1MU3DM039775",
+    "car": "Plymouth"
+  }, {
+    "id": 89,
+    "vin": "KNDPB3A24C7961559",
+    "car": "Kia"
+  }, {
+    "id": 90,
+    "vin": "WBXPA93484W423719",
+    "car": "Mitsubishi"
+  }, {
+    "id": 91,
+    "vin": "1G6KD57Y28U034048",
+    "car": "Ford"
+  }, {
+    "id": 92,
+    "vin": "1N6AA0CC1AN942728",
+    "car": "GMC"
+  }, {
+    "id": 93,
+    "vin": "1G6KD57Y35U739730",
+    "car": "Isuzu"
+  }, {
+    "id": 94,
+    "vin": "WA1DMAFP3EA670878",
+    "car": "Volkswagen"
+  }, {
+    "id": 95,
+    "vin": "TRUTX28N921170140",
+    "car": "Ford"
+  }, {
+    "id": 96,
+    "vin": "1D4PT6GX5AW401184",
+    "car": "Mitsubishi"
+  }, {
+    "id": 97,
+    "vin": "WBA3G7C51EF948594",
+    "car": "Mitsubishi"
+  }, {
+    "id": 98,
+    "vin": "1GYS4BEF1BR268621",
+    "car": "Land Rover"
+  }, {
+    "id": 99,
+    "vin": "JTDKN3DU0B0698461",
+    "car": "GMC"
+  }, {
+    "id": 100,
+    "vin": "WAUJGAFC7DN503909",
+    "car": "BMW"
+  }]
+
+
+
+Collapse 
+
+Connor Hutchinson10:38 AM
+@Jeff James thanks. i was watching it and trying to make my original code work, but yours seems 1000x easier to work with
+
+Jeff James11:04 AM
+evenEasier.js 
+// https://stackoverflow.com/questions/43622127/filtering-table-multiple-columns
+
+
+// Load the Table:
+
+const inputData = data; // from the file addresswhatever js
+
+// Build the table
+function renderTable(input_data) {
+        input_data.forEach(element => {
+            let newTr = d3.select('table').append('tr')
+                newTr.append('td').text(element.datetime)
+                newTr.append('td').text(element.city)
+                newTr.append('td').text(element.state)
+                newTr.append('td').text(element.country)
+                newTr.append('td').text(element.shape)
+                newTr.append('td').text(element.durationMinutes)
+                newTr.append('td').text(element.comments)              
+        })
+} // end renderTable
+
+renderTable(inputData) // render it from the global data variable
+
+
+function filterTable(e) {
+    e.preventDefault();
+    console.log(e.target.value)
+    
+    var filter = e.target.value;
+    console.log(filter, 'IS THE FILTER')
+    let rows = document.getElementById("ufo-table").rows
+    
+    for (var i = 0; i < rows.length; i++) {
+        var firstCol = rows[i].cells[0].textContent;
+        var secondCol = rows[i].cells[1].textContent;
+		// Extend it here
+        if (firstCol.indexOf(filter) > -1 || secondCol.indexOf(filter) > -1) {
+            rows[i].style.display = "";
+        } else {
+            rows[i].style.display = "none";
+        }      
+    }
+}
+
+
+// Assumes the text input has an id called filterValue
+document.getElementById('filterValue').addEventListener('keyup', filterTable, false); 
